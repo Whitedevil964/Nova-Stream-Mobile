@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 28" width="1200" height="28" role="img" aria-label="Divider">
+  <defs>
+    <linearGradient id="beam" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#5E6AD2" stop-opacity="0"/>
+      <stop offset="35%" stop-color="#5E6AD2" stop-opacity="0.55"/>
+      <stop offset="50%" stop-color="#22D3EE" stop-opacity="0.90"/>
+      <stop offset="65%" stop-color="#5E6AD2" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#5E6AD2" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="13" width="1200" height="1.5" fill="url(#beam)"/>
+  <polygon points="600,7 606,14 600,21 594,14" fill="#0B101D" stroke="#22D3EE" stroke-width="1.5"/>
+</svg>

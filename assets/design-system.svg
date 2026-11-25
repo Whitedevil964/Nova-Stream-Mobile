@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 220" width="1200" height="220" role="img" aria-label="NovaStream Dark Cinema Design System">
+  <defs>
+    <radialGradient id="accentSwatch" cx="50%" cy="50%" r="70%">
+      <stop offset="0%" stop-color="#6F7BE6"/>
+      <stop offset="100%" stop-color="#5E6AD2"/>
+    </radialGradient>
+  </defs>
+
+  <rect x="2" y="2" width="1196" height="216" rx="20" fill="#050508" stroke="#FFFFFF" stroke-opacity="0.10" stroke-width="1.2"/>
+  <text x="32" y="38" fill="#EDEDEF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="16" font-weight="700">Modern Dark Cinema Palette</text>
+  <text x="1168" y="38" text-anchor="end" fill="#7C8290" font-family="'SFMono-Regular', Consolas, monospace" font-size="11.5" letter-spacing="1.2">INTER TYPOGRAPHY  ·  1PX HAIRLINE GLASS SURFACES</text>
+
+  <!-- Swatch 1 -->
+  <g transform="translate(32, 60)">
+    <rect x="0" y="0" width="176" height="132" rx="14" fill="#0B0C12" stroke="#FFFFFF" stroke-opacity="0.09"/>
+    <rect x="12" y="12" width="152" height="64" rx="10" fill="#020203" stroke="#FFFFFF" stroke-opacity="0.14"/>
+    <text x="16" y="100" fill="#EDEDEF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="13" font-weight="700">Deep Obsidian</text>
+    <text x="16" y="118" fill="#8A8F98" font-family="'SFMono-Regular', Consolas, monospace" font-size="11.5">#020203</text>
+  </g>
+
+  <!-- Swatch 2 -->
+  <g transform="translate(223, 60)">
+    <rect x="0" y="0" width="176" height="132" rx="14" fill="#0B0C12" stroke="#FFFFFF" stroke-opacity="0.09"/>
+    <rect x="12" y="12" width="152" height="64" rx="10" fill="#050506" stroke="#FFFFFF" stroke-opacity="0.14"/>
+    <text x="16" y="100" fill="#EDEDEF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="13" font-weight="700">Base Cinema</text>
+    <text x="16" y="118" fill="#8A8F98" font-family="'SFMono-Regular', Consolas, monospace" font-size="11.5">#050506</text>
+  </g>
+
+  <!-- Swatch 3 -->
+  <g transform="translate(414, 60)">
+    <rect x="0" y="0" width="176" height="132" rx="14" fill="#0B0C12" stroke="#FFFFFF" stroke-opacity="0.09"/>
+    <rect x="12" y="12" width="152" height="64" rx="10" fill="#0A0A0C" stroke="#FFFFFF" stroke-opacity="0.16"/>
+    <text x="16" y="100" fill="#EDEDEF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="13" font-weight="700">Elevated Glass</text>
+    <text x="16" y="118" fill="#8A8F98" font-family="'SFMono-Regular', Consolas, monospace" font-size="11.5">#0A0A0C</text>
+  </g>
+
+  <!-- Swatch 4 -->
+  <g transform="translate(605, 60)">
+    <rect x="0" y="0" width="176" height="132" rx="14" fill="#0B0C12" stroke="#5E6AD2" stroke-opacity="0.45"/>
+    <rect x="12" y="12" width="152" height="64" rx="10" fill="url(#accentSwatch)"/>
+    <text x="16" y="100" fill="#EDEDEF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="13" font-weight="700">Electric Indigo</text>
+    <text x="16" y="118" fill="#B5BCF7" font-family="'SFMono-Regular', Consolas, monospace" font-size="11.5">#5E6AD2 · 20% Glow</text>
+  </g>
+
+  <!-- Swatch 5 -->
+  <g transform="translate(796, 60)">
+    <rect x="0" y="0" width="176" height="132" rx="14" fill="#0B0C12" stroke="#FFFFFF" stroke-opacity="0.09"/>
+    <rect x="12" y="12" width="152" height="64" rx="10" fill="#EDEDEF"/>
+    <text x="16" y="100" fill="#EDEDEF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="13" font-weight="700">Crisp Foreground</text>
+    <text x="16" y="118" fill="#8A8F98" font-family="'SFMono-Regular', Consolas, monospace" font-size="11.5">#EDEDEF</text>
+  </g>
+
+  <!-- Swatch 6 -->
+  <g transform="translate(987, 60)">
+    <rect x="0" y="0" width="181" height="132" rx="14" fill="#0B0C12" stroke="#FFFFFF" stroke-opacity="0.09"/>
+    <rect x="12" y="12" width="157" height="64" rx="10" fill="#8A8F98"/>
+    <text x="16" y="100" fill="#EDEDEF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="13" font-weight="700">Muted Slate</text>
+    <text x="16" y="118" fill="#8A8F98" font-family="'SFMono-Regular', Consolas, monospace" font-size="11.5">#8A8F98 · 8% Border</text>
+  </g>
+</svg>

@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 356" width="1200" height="356" role="img" aria-label="NovaStream Mobile Core Capabilities">
+  <defs>
+    <linearGradient id="bentoBg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#0B0C14"/>
+      <stop offset="100%" stop-color="#06070B"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Card 1: Cinema Playback -->
+  <g transform="translate(0, 0)">
+    <rect x="1" y="1" width="584" height="166" rx="18" fill="url(#bentoBg)" stroke="#FFFFFF" stroke-opacity="0.11" stroke-width="1.2"/>
+    <path d="M 24 2 L 220 2" stroke="#5E6AD2" stroke-width="3" stroke-linecap="round"/>
+    <rect x="24" y="24" width="44" height="44" rx="12" fill="#5E6AD2" fill-opacity="0.18" stroke="#5E6AD2" stroke-opacity="0.45"/>
+    <polygon points="41,37 41,55 56,46" fill="#8B95F6"/>
+    <text x="82" y="43" fill="#EDEDEF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="18" font-weight="700">Native 1080p Cinema Player</text>
+    <text x="82" y="63" fill="#8A8F98" font-family="'SFMono-Regular', Consolas, monospace" font-size="11.5">MEDIA3 EXOPLAYER  ·  PICTURE-IN-PICTURE</text>
+    <text x="24" y="98" fill="#B2B7C2" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="14">Hardware-accelerated HLS streaming with auto-skip opening (+85s),</text>
+    <text x="24" y="118" fill="#B2B7C2" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="14">0.5x–2.0x speed studio, autoplay countdown, screen lock, and custom CC styling.</text>
+    <text x="24" y="146" fill="#7E88E8" font-family="'SFMono-Regular', Consolas, monospace" font-size="11.5">1080p / 720p / 480p  ·  Live Subtitle Preview  ·  Landscape Auto-Rotate</text>
+  </g>
+
+  <!-- Card 2: Tri-Audio & Hindi Dub Zone -->
+  <g transform="translate(614, 0)">
+    <rect x="1" y="1" width="584" height="166" rx="18" fill="url(#bentoBg)" stroke="#FFFFFF" stroke-opacity="0.11" stroke-width="1.2"/>
+    <path d="M 24 2 L 220 2" stroke="#F59E0B" stroke-width="3" stroke-linecap="round"/>
+    <rect x="24" y="24" width="44" height="44" rx="12" fill="#F59E0B" fill-opacity="0.16" stroke="#F59E0B" stroke-opacity="0.45"/>
+    <text x="46" y="52" text-anchor="middle" fill="#FCD34D" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="17" font-weight="800">HI</text>
+    <text x="82" y="43" fill="#EDEDEF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="18" font-weight="700">Tri-Audio &amp; Dedicated Hindi Zone</text>
+    <text x="82" y="63" fill="#8A8F98" font-family="'SFMono-Regular', Consolas, monospace" font-size="11.5">SUB  ·  ENGLISH DUB  ·  HINDI MULTI-SEASON</text>
+    <text x="24" y="98" fill="#B2B7C2" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="14">Switch seamlessly between Japanese Sub and English Dub, or browse an</text>
+    <text x="24" y="118" fill="#B2B7C2" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="14">isolated Hindi Dub catalog with full multi-season episode lists &amp; server picker.</text>
+    <text x="24" y="146" fill="#FBBF24" font-family="'SFMono-Regular', Consolas, monospace" font-size="11.5">Default Audio Preference  ·  Instant Season Chips  ·  1200+ Ep Series Support</text>
+  </g>
+
+  <!-- Card 3: Offline Vault -->
+  <g transform="translate(0, 188)">
+    <rect x="1" y="1" width="584" height="166" rx="18" fill="url(#bentoBg)" stroke="#FFFFFF" stroke-opacity="0.11" stroke-width="1.2"/>
+    <path d="M 24 2 L 220 2" stroke="#10B981" stroke-width="3" stroke-linecap="round"/>
+    <rect x="24" y="24" width="44" height="44" rx="12" fill="#10B981" fill-opacity="0.16" stroke="#10B981" stroke-opacity="0.45"/>
+    <path d="M 46 35 L 46 53 M 39 47 L 46 54 L 53 47" fill="none" stroke="#6EE7B7" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="82" y="43" fill="#EDEDEF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="18" font-weight="700">Offline Episode Vault &amp; Sync</text>
+    <text x="82" y="63" fill="#8A8F98" font-family="'SFMono-Regular', Consolas, monospace" font-size="11.5">FOREGROUND SERVICE  ·  WORKMANAGER ALERTS</text>
+    <text x="24" y="98" fill="#B2B7C2" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="14">Pause and resume MP4 episode downloads with Wi-Fi-only guards, custom</text>
+    <text x="24" y="118" fill="#B2B7C2" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="14">Scoped Storage folders (Movies, Downloads, SD Card), and offline playback banner.</text>
+    <text x="24" y="146" fill="#34D399" font-family="'SFMono-Regular', Consolas, monospace" font-size="11.5">Zero-Buffer Disk Playback  ·  6h Episode Alerts  ·  Deep Link Launching</text>
+  </g>
+
+  <!-- Card 4: Discovery, Watchlist & Stats -->
+  <g transform="translate(614, 188)">
+    <rect x="1" y="1" width="584" height="166" rx="18" fill="url(#bentoBg)" stroke="#FFFFFF" stroke-opacity="0.11" stroke-width="1.2"/>
+    <path d="M 24 2 L 220 2" stroke="#22D3EE" stroke-width="3" stroke-linecap="round"/>
+    <rect x="24" y="24" width="44" height="44" rx="12" fill="#22D3EE" fill-opacity="0.15" stroke="#22D3EE" stroke-opacity="0.45"/>
+    <circle cx="44" cy="44" r="8" fill="none" stroke="#67E8F9" stroke-width="2.5"/>
+    <line x1="50" y1="50" x2="56" y2="56" stroke="#67E8F9" stroke-width="2.5" stroke-linecap="round"/>
+    <text x="82" y="43" fill="#EDEDEF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="18" font-weight="700">Smart Discovery, Library &amp; Stats</text>
+    <text x="82" y="63" fill="#8A8F98" font-family="'SFMono-Regular', Consolas, monospace" font-size="11.5">ROOM SQLITE  ·  CONTINUE WATCHING  ·  BADGES</text>
+    <text x="24" y="98" fill="#B2B7C2" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="14">3D hero carousel, instant genre/status filtering, recent search pill chips,</text>
+    <text x="24" y="118" fill="#B2B7C2" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="14">automated Continue Watching progression, daily streaks, and milestone badges.</text>
+    <text x="24" y="146" fill="#67E8F9" font-family="'SFMono-Regular', Consolas, monospace" font-size="11.5">Dual-Source Search  ·  More Like This  ·  Tactile Haptics &amp; Shimmers</text>
+  </g>
+</svg>
